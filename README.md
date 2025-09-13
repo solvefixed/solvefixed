@@ -35,6 +35,14 @@
 ![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=flat-square&logo=traefikproxy&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 
+**Low-level**  
+![Assembly](https://img.shields.io/badge/Assembly-654FF0?style=flat-square&logo=assemblyscript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![IDA Pro](https://img.shields.io/badge/IDA_Pro-FF6B6B?style=flat-square)
+![Ghidra](https://img.shields.io/badge/Ghidra-2ECC71?style=flat-square)
+![JADX](https://img.shields.io/badge/JADX-E67E22?style=flat-square)
+![Frida](https://img.shields.io/badge/Frida-8E44AD?style=flat-square)
+
 ## 🔗 Contact
 
 [![Website](https://img.shields.io/badge/-solvedev.to-blue?style=flat&logo=googlechrome&logoColor=white)](https://solvedev.to)
