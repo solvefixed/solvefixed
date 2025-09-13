@@ -37,6 +37,7 @@
 
 **Low-level**  
 ![Assembly](https://img.shields.io/badge/Assembly-654FF0?style=flat-square&logo=assemblyscript&logoColor=white)
+![C++](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![IDA Pro](https://img.shields.io/badge/IDA_Pro-FF6B6B?style=flat-square)
 ![Ghidra](https://img.shields.io/badge/Ghidra-2ECC71?style=flat-square)
